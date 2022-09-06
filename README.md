@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, World! May I take your order?
 
-<!--
-**Is0metry/Is0metry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to the place I put my problematic, programmatic prose! 
+### Name: Woodrow "Woody" Sims (He/Him/They/Them)
+Trinity University CompSci grad, Codeup Data Science bootcamp taker, ✨Queer✨, [Vociferous Profligate](https://www.youtube.com/watch?v=SLtVMU6CCHE)
 
-Here are some ideas to get you started:
+## Things I Like
+----
+**Languages:** Go(❤️), Python(👍🏻), Swift(🙂), Javascript(🙃), C++(😭)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks:** Pandas, Flask, React (sometimes)
+
+## Currently Learning
+---
+Machine Learning, Data Science, Web Development (For funsies) 
+
+[Current Hyperfixation](https://www.youtube.com/watch?v=KJZ4YYtdMIg)
