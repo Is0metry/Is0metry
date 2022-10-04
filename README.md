@@ -2,7 +2,7 @@
 
 ### Welcome to the place I put my problematic, programmatic prose! 
 ### Name: Woodrow "Woody" Sims (He/Him/They/Them)
-Trinity University CompSci grad, Codeup Data Science bootcamp taker, ✨Queer✨, [Vociferous Profligate](https://www.youtube.com/watch?v=SLtVMU6CCHE)
+Trinity University CompSci grad, Codeup Data Science bootcamp taker, ✨Queer✨, [Vociferous Profligate](https://www.youtube.com/watch?v=SLtVMU6CCHE&t=51)
 
 ## Things I Like
 **Languages:** Go(❤️), Python(👍🏻), Swift(🙂), Javascript(🙃), C++(😭)
