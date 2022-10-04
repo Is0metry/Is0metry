@@ -12,4 +12,4 @@ Trinity University CompSci grad, Codeup Data Science bootcamp taker, ✨Queer✨
 ## Currently Learning
 Machine Learning, Data Science, Web Development (For funsies) 
 
-[Current Hyperfixation](https://www.youtube.com/watch?v=LZYahhfoIk0)
+[Current Hyperfixation](https://www.youtube.com/watch?v=JAwac73o-fE)
