@@ -7,9 +7,9 @@ Trinity University CompSci grad, Codeup Data Science bootcamp taker, ✨Queer✨
 ## Things I Like
 **Languages:** Go(❤️), Python(👍🏻), Swift(🙂), Javascript(🙃), C++(😭)
 
-**Frameworks:** Pandas, Flask, React (sometimes)
+**Toolkit:** Pandas, Matplotlib, Seaborn, Flask
 
 ## Currently Learning
 Machine Learning, Data Science, Web Development (For funsies) 
 
-[Current Hyperfixation](https://www.youtube.com/watch?v=KJZ4YYtdMIg)
+[Current Hyperfixation](https://www.youtube.com/watch?v=LZYahhfoIk0)
