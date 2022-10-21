@@ -14,6 +14,6 @@ Machine Learning, Data Science, Web Development (For funsies)
 
 [Current Hyperfixation](https://www.youtube.com/watch?v=JAwac73o-fE)
 
-$isom·​e·​try | \ ī-ˈsä-mə-trē  \$ a mapping of a metric space onto another or onto itself so that the distance between any two points in the original space is the same as the distance between their images in the second space.
+*isom·​e·​try | \ ī-ˈsä-mə-trē  \ * a mapping of a metric space onto another or onto itself so that the distance between any two points in the original space is the same as the distance between their images in the second space.
 
 We are all the same, just arranged a little differently
