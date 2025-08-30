@@ -4,15 +4,15 @@
 Trinity University CompSci grad, Codeup Data Science bootcamp taker, ✨Queer✨, [Vociferous Profligate](https://www.youtube.com/watch?v=SLtVMU6CCHE&t=51)
 
 ## Things I Like
-**Languages:** Go(❤️), Python(👍🏻), Swift(🙂), Javascript(🙃), C++(😭)
+**Languages:** Python(❤️), Swift(🙂), Javascript(🙃), C++(😭)
 
-**Toolkit:** Pandas, Matplotlib, Seaborn, Flask
+**Toolkit:** Pandas, Matplotlib, Seaborn, Flask, FastAPI
 
 ## Currently Learning
 Machine Learning, Data Science, Web Development (For funsies) 
 
 
-[Current Hyperfixation](https://www.youtube.com/watch?v=1WAlkyxz2mU)
+[Current Hyperfixation](https://www.youtube.com/watch?v=lv1MwS56aCo)
 
 *isom·e·try:* a mapping of a metric space onto another or onto itself so that the distance between any two points in the original space is the same as the distance between their images in the second space.
 
