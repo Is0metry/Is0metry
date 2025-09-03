@@ -12,7 +12,7 @@ Trinity University CompSci grad, Codeup Data Science bootcamp taker, ✨Queer✨
 Machine Learning, Data Science, Web Development (For funsies) 
 
 
-[Current Hyperfixation](https://www.youtube.com/watch?v=lv1MwS56aCo)
+[Current Hyperfixation](youtu.be/U2sefF_08OM)
 
 *isom·e·try:* a mapping of a metric space onto another or onto itself so that the distance between any two points in the original space is the same as the distance between their images in the second space.
 
