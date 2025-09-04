@@ -4,7 +4,7 @@
 Trinity University CompSci grad, Codeup Data Science bootcamp taker, ✨Queer✨, [Vociferous Profligate](https://www.youtube.com/watch?v=SLtVMU6CCHE&t=51)
 
 ## Things I Like
-**Languages:** Python(❤️), Swift(🙂), Javascript(🙃), C++(😭)
+**Languages:** Python(❤️), Swift(🙂), Rust(🙃), C++(😭)
 
 **Toolkit:** Pandas, Matplotlib, Seaborn, Flask, FastAPI
 
